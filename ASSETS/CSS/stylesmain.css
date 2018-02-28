@@ -2,7 +2,7 @@ body{
   font-family: 'Shrikhand', cursive;
 }
 #hero-image{
-  background-image:url(hero-image.jpg);
+  background-image:url(./ASSETS/IMG/hero-image.jpg);
   height:500px;
   width:100%;
   background-position:center;
