@@ -1,9 +1,10 @@
 body{
+  background-color: #CCFFFF;
   font-family: 'Shrikhand', cursive;
 }
 #hero-image{
   background-image:url(hero-image.jpg);
-  height:500px;
+  height:550px;
   width:100%;
   background-position:center;
   background-repeat:no-repeat;
@@ -16,7 +17,7 @@ body{
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: black;
+  color: #FFE32E;
 }
 #title{
   font-size:100px;
@@ -41,4 +42,22 @@ body{
 }
 #slogan{
   font-size:30px;
+}
+#stats-button{
+  height:50px;
+  width:100px;
+  border:none;
+  border-radius:20px;
+  outline:0;
+  text-align:center;
+  cursor:pointer;
+  background-color:lightgrey;
+  text-align:center;
+  color:black;
+  display: inline-block;
+  padding: 10px;
+}
+#stats-button:hover{
+  background-color:#555;
+  color:white;
 }
