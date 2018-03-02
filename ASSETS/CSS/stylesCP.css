@@ -15,3 +15,24 @@ body {
 div {
   display: block;
 }
+
+h1 {
+   border: solid  0.5px #E2E2E2 ;
+  margin-right:220px ;
+  margin-left:220px ;
+  background-color: white;
+  width: auto;
+  max-width: 835px;
+  margin-bottom: 15px;
+ 
+}
+#main-header {
+ border: solid  0.5px #E2E2E2 ;
+  margin-right:220px ;
+  margin-left:220px ;
+  background-color: white;
+  width: auto;
+  max-width: 835px;
+  margin-bottom: 15px;
+
+}
